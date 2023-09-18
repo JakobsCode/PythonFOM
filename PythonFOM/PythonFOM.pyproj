@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>07d0c027-539b-417e-94a9-8714b7899f24</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>PythonFOM.py</StartupFile>
+    <StartupFile>PythonComputerRaten.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,6 +22,13 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="datei01_aufgabe16.py" />
+    <Compile Include="datei01_aufgabe15.py" />
+    <Compile Include="datei01_aufgabe14.py" />
+    <Compile Include="datei01_aufgabe4.py" />
+    <Compile Include="datei01_aufgabe13.py" />
+    <Compile Include="datei01_aufgabe9.py" />
+    <Compile Include="PythonComputerRaten.py" />
     <Compile Include="PythonFOM.py" />
   </ItemGroup>
   <ItemGroup>
